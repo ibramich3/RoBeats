@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" role="img" aria-label="Illustration of a belly dancer with a flowing veil and skirt inside an arch">
+<defs>
+<g id="fl"><g fill="#C05C27"><ellipse cx="0" cy="-12" rx="5" ry="10"/><ellipse cx="0" cy="-12" rx="5" ry="10" transform="rotate(60)"/><ellipse cx="0" cy="-12" rx="5" ry="10" transform="rotate(120)"/><ellipse cx="0" cy="-12" rx="5" ry="10" transform="rotate(180)"/><ellipse cx="0" cy="-12" rx="5" ry="10" transform="rotate(240)"/><ellipse cx="0" cy="-12" rx="5" ry="10" transform="rotate(300)"/></g><circle r="5" fill="#F1E7D4"/></g>
+<g id="leaf"><path d="M0 0C10-14 10-30 0-44 -10-30 -10-14 0 0Z" fill="#4A5A28"/></g>
+</defs>
+<rect width="400" height="520" fill="#59362A"/>
+<path d="M30 500V210A170 170 0 0 1 370 210V500Z" fill="#4b2c22" stroke="#D6B4A1" stroke-width="3"/>
+<path d="M48 490V212A152 152 0 0 1 352 212V490Z" fill="none" stroke="#D6B4A1" stroke-width="1.5" stroke-dasharray="2 9" stroke-linecap="round"/>
+<use href="#fl" x="200" y="62"/>
+<use href="#leaf" x="150" y="82" transform="rotate(-50 150 82)"/><use href="#leaf" x="250" y="82" transform="rotate(50 250 82)"/>
+<g transform="translate(62 230) scale(.8)"><use href="#fl"/></g><g transform="translate(338 230) scale(.8)"><use href="#fl"/></g>
+<g fill="#D6B4A1" opacity=".55"><circle cx="70" cy="300" r="3"/><circle cx="70" cy="330" r="3"/><circle cx="70" cy="360" r="3"/><circle cx="330" cy="300" r="3"/><circle cx="330" cy="330" r="3"/><circle cx="330" cy="360" r="3"/></g>
+<!-- veil -->
+<path d="M122 108C80 200 100 300 150 345L166 332C128 290 130 200 134 120Z" fill="#C05C27" opacity=".75"/>
+<path d="M278 108C320 200 300 300 250 345L234 332C272 290 270 200 266 120Z" fill="#C05C27" opacity=".75"/>
+<!-- hair -->
+<path d="M178 150C170 190 176 225 186 240L196 170Z" fill="#3a2018"/><path d="M222 150C230 190 224 225 214 240L204 170Z" fill="#3a2018"/>
+<!-- arms -->
+<g fill="none" stroke="#D6B4A1" stroke-width="9" stroke-linecap="round"><path d="M180 208C150 190 128 150 124 108"/><path d="M220 208C250 190 272 150 276 108"/></g>
+<!-- skirt -->
+<path d="M172 300C140 380 100 440 70 488H330C300 440 260 380 228 300Z" fill="#8c3f1b"/>
+<path d="M172 300C150 380 130 440 118 488H282C270 440 250 380 228 300Z" fill="#C05C27"/>
+<g fill="none" stroke="#F1E7D4" stroke-width="2" opacity=".6" stroke-linecap="round"><path d="M185 330C165 390 150 440 140 484"/><path d="M200 320V486"/><path d="M215 330C235 390 250 440 260 484"/></g>
+<path d="M70 488Q90 474 110 488T150 488T190 488T230 488T270 488T310 488L330 488" fill="none" stroke="#D6B4A1" stroke-width="3"/>
+<!-- torso -->
+<path d="M180 205H220C222 235 216 262 214 292H186C184 262 178 235 180 205Z" fill="#D6B4A1"/>
+<path d="M178 200H222L216 238Q200 248 184 238Z" fill="#C05C27"/>
+<g fill="#F1E7D4"><circle cx="190" cy="218" r="2.5"/><circle cx="200" cy="224" r="2.5"/><circle cx="210" cy="218" r="2.5"/></g>
+<path d="M176 286Q200 296 224 286L230 312Q200 324 170 312Z" fill="#4A5A28"/>
+<g fill="#F1E7D4"><circle cx="184" cy="304" r="2.6"/><circle cx="196" cy="309" r="2.6"/><circle cx="208" cy="309" r="2.6"/><circle cx="216" cy="304" r="2.6"/></g>
+<!-- neck, head -->
+<rect x="193" y="178" width="14" height="28" rx="6" fill="#D6B4A1"/>
+<circle cx="200" cy="154" r="25" fill="#D6B4A1"/>
+<path d="M174 150Q200 108 226 150Q214 126 200 126T174 150Z" fill="#3a2018"/>
+<path d="M186 120H214L210 130H190Z" fill="#C05C27"/><circle cx="200" cy="118" r="6" fill="#F1E7D4"/>
+</svg>
